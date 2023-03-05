@@ -1,5 +1,2 @@
-<Directory https://wheater-app-henner.up.railway.app/ >
-Options FollowSymLinks
-AllowOverride All
-Require all granted
-</Directory>
+Order Allow,Deny
+Allow from all
