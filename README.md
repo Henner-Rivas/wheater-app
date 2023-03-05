@@ -17,7 +17,7 @@ Para poder ejecutar este proyecto, es necesario contar con las siguientes herram
 1. Clona este repositorio en tu máquina local:
    <Code language="javascript">
 
-git clone https://github.com/tu-usuario/proyecto-clima.git
+git clone https://github.com/Henner-Rivas/wheater-app
 </Code> 2. Instala las dependencias de PHP con Composer y npm .
 
 <Code language="javascript">
@@ -60,6 +60,6 @@ La aplicación guarda un historial de las búsquedas realizadas, que se puede co
 
 ![ Pagina de inicio](https://i.ibb.co/4Z41jLc/captura.png)
 
-## Ejemplo 2 Pagina busqudas
+## Ejemplo 2 Pagina lista de busquedas
 
 ![Lista de busquedas](https://i.ibb.co/rZCskDQ/Captura-de-pantalla-2023-03-05-062416.png)
