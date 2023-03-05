@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.leaflet-left{
+  left: inherit !important;
+   right: 14px !important;
+}
