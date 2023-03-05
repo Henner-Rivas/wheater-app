@@ -1,6 +1,6 @@
 ## Proyecto Clima
 
-Este proyecto utiliza la API de OpenWeatherMap para mostrar la humedad de las ciudades de Miami, Orlando y New York en un mapa, así como para almacenar un historial de consultas que puede ser consultado a través de un enlace en la página. Además, cuenta con un buscador que permite buscar la humedad de cualquier ciudad del mundo.
+Este proyecto utiliza la API de OpenWeatherMap para mostrar la humedad de las ciudades de Miami, Orlando y New York en un mapa, así como para almacenar un historial de consultas que puede ser consultado a través de un enlace en la página.
 
 ## Requisitos
 
@@ -53,7 +53,5 @@ npm run dev
 ## Uso
 
 La página principal de la aplicación muestra un mapa con los marcadores de las ciudades Miami, Orlando y New York. Al hacer clic en cada marcador se muestra la humedad actual de la ciudad correspondiente.
-
-También hay un formulario de búsqueda en la parte superior de la página donde se puede buscar la humedad de otras ciudades.
 
 La aplicación guarda un historial de las búsquedas realizadas, que se puede consultar haciendo clic en el enlace "Historial" en la parte superior de la página.
