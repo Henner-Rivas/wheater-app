@@ -55,3 +55,11 @@ npm run dev
 La página principal de la aplicación muestra un mapa con los marcadores de las ciudades Miami, Orlando y New York. Al hacer clic en cada marcador se muestra la humedad actual de la ciudad correspondiente.
 
 La aplicación guarda un historial de las búsquedas realizadas, que se puede consultar haciendo clic en el enlace "Historial" en la parte superior de la página.
+
+## Ejemplo 1 Pagina inicio
+
+![ Pagina de inicio](https://i.ibb.co/4Z41jLc/captura.png)
+
+## Ejemplo 2 Pagina busqudas
+
+![Lista de busquedas](https://i.ibb.co/rZCskDQ/Captura-de-pantalla-2023-03-05-062416.png)

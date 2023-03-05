@@ -31,7 +31,7 @@
 
                         </th>
                         <td class="px-6 py-4">
-                            {{$history->humedad}}
+                            {{$history->humedad}}%
 
                         </td>
                         <td class="px-6 py-4">
